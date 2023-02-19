@@ -1,0 +1,6 @@
+E:\projects\SquareCalculateLibrary\SquareCalculateLibrary\bin\Debug\SquareCalculateLibrary.dll
+E:\projects\SquareCalculateLibrary\SquareCalculateLibrary\bin\Debug\SquareCalculateLibrary.pdb
+E:\projects\SquareCalculateLibrary\SquareCalculateLibrary\obj\Debug\SquareCalculateLibrary.csproj.AssemblyReference.cache
+E:\projects\SquareCalculateLibrary\SquareCalculateLibrary\obj\Debug\SquareCalculateLibrary.csproj.CoreCompileInputs.cache
+E:\projects\SquareCalculateLibrary\SquareCalculateLibrary\obj\Debug\SquareCalculateLibrary.dll
+E:\projects\SquareCalculateLibrary\SquareCalculateLibrary\obj\Debug\SquareCalculateLibrary.pdb
